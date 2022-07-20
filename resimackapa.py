@@ -7,7 +7,8 @@ cv2.imshow("ronaldo",resim_1)
 cv2.imwrite("ronaldo_gri.png",resim_1)
 
 
-
+der merhaba():
+	print("merhaba")
 
 
 cv2.waitKey()
